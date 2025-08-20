@@ -1,0 +1,8 @@
+# User data (anonymized)
+Name: krish
+Age: 10
+Email: kr***@gmail.com
+Phone: ********63
+Address: 2-2-371
+# Password hash for protection
+PasswordHash: a335c3c780dea242e191c3b83ce2b33adefeade0c4ab286d23711452510082a1
